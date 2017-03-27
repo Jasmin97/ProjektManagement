@@ -12,7 +12,11 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+<<<<<<< HEAD
 \contentsline {figure}{\numberline {13.1}{\ignorespaces Arduino mit Lichtsensor und Lichterkette}}{35}{figure.caption.9}
+=======
+\contentsline {figure}{\numberline {13.1}{\ignorespaces Arduino mit Lichtsensor und Lichterkette}}{37}{figure.caption.9}
+>>>>>>> origin/master
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
